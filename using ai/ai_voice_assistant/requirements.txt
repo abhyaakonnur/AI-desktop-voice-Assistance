@@ -1,0 +1,10 @@
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+python-dotenv>=1.0.0
+openai>=1.40.0
+pywin32>=310; sys_platform == 'win32'
+wikipedia-api>=0.6.0
+Flask>=2.0.0
+Flask-SocketIO>=5.0.0
+python-socketio>=5.0.0
+python-engineio>=4.0.0
